@@ -44,7 +44,6 @@ Software Developer based in Pleven, Bulgaria 🇧🇬 | CS Student at Ruse Unive
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=VladiCI04&theme=tokyonight" width="48%" alt="GitHub Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VladiCI04&theme=tokyo-night" width="48%" alt="Activity Graph" />
 </p>
 
 ---
