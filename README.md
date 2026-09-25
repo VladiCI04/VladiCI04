@@ -43,8 +43,8 @@ Software Developer based in Pleven, Bulgaria 🇧🇬 | CS Student at Ruse Unive
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VladiCI04&show_icons=true&theme=tokyonight" alt="Vladimir's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=VladiCI04&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=VladiCI04&theme=tokyonight" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VladiCI04&theme=tokyo-night" width="48%" alt="Activity Graph" />
 </p>
 
 ---
@@ -52,5 +52,5 @@ Software Developer based in Pleven, Bulgaria 🇧🇬 | CS Student at Ruse Unive
 ### 📫 Connect with Me
 
 - 🌐 **GitHub**: [github.com/VladiCI04](https://github.com/VladiCI04)
-- 💼 **LinkedIn**: (https://www.linkedin.com/in/vladimir-ivanov-239303244/)
+- 💼 **LinkedIn**: https://www.linkedin.com/in/vladimir-ivanov-239303244/
 - ✉️ **Email**: vladi.c.i@abv.bg
